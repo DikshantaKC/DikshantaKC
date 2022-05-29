@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Machine learning projects
 - 🤔 I’m looking for help with ... Machine learning models
 - 💬 Ask me about ... Anything.
-- 📫 How to reach me: ... [Linkedin] (http://www.linkedin.com/in/Dikshanta-KC)
+- 📫 How to reach me: ... [Linkedin](http://www.linkedin.com/in/Dikshanta-KC)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can eat 50 dumplings.
 -->
